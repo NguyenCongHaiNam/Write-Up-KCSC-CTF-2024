@@ -1,10 +1,10 @@
 ## Giải này mình join hơi muộn nên chỉ kịp làm được 1 bài misc 
 
-Đề: ![enter image description here](a)
+Đề: ![Đề](Shadow.png)
 
 Nhìn vào hình mình thấy có những pixel sắp xếp lộn xộn nên thử lấy mã màu của từng pixel ra xem như thế nào( vì mã RGB là decimal nên mình đã convert sang hex để so sánh với file signature)
 
-Code:  [Xem ở đây](a)
+##### Code:  [Xem ở đây](extract.py)
 
 ![image](https://github.com/NguyenCongHaiNam/Write-Up-KCSC-CTF-2024/assets/116544941/e510440b-0da2-4d07-b128-07f6e91c6219)
 
@@ -38,6 +38,8 @@ Nếu để ý kĩ thì ta thấy video pixel kia có sự thay đổi màu rấ
 ![image](https://github.com/NguyenCongHaiNam/Write-Up-KCSC-CTF-2024/assets/116544941/dd8cbf29-eac0-47dd-a318-a34855698fd7)
 ![image](https://github.com/NguyenCongHaiNam/Write-Up-KCSC-CTF-2024/assets/116544941/39aa3c42-14e9-4a52-bb0d-f3487147b62d)
 ![image](https://github.com/NguyenCongHaiNam/Write-Up-KCSC-CTF-2024/assets/116544941/7ba263e4-a2ae-4c02-b0c4-a5fcda79d2c4)
+
+##### Code:  [Xem ở đây](solved.py)
 
 PS: ở đây mình bị sai một bit mà không rõ vì sao :((( Tiếc là khi mình giải xong thì vừa hết giờ :( mn thấy hay thì cho mình xin một star để lấy cái huy hiệu của github nhé. Thank guys!
 
